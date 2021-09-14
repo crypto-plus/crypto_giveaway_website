@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "4e29f8df78389d3d7cd8173221918218",
-"index.html": "1e359cd688e906fd348a494d2e8ae1ca",
-"/": "1e359cd688e906fd348a494d2e8ae1ca",
-"main.dart.js": "3d2e7336159d6123d2a26b6e8e3ae30c",
+"index.html": "9a0e08b693a8b912c34024edcee0cc36",
+"/": "9a0e08b693a8b912c34024edcee0cc36",
+"main.dart.js": "b6b69b66ad0e3e6c136e4a977d47b42a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -25,7 +25,7 @@ const RESOURCES = {
 "assets/assets/images/biibng-fail.gif": "500937889d9945aa912504f397f334f8",
 "assets/assets/images/texture2.jpeg": "9ea6a4895611bdc2d7411885aa25e9ca",
 "assets/assets/images/eth.png": "2e9fbf27f35c422ed3616e2731916f5c",
-"assets/assets/images/texture3.jpeg": "d9b9ed1432c1d5ed1fdad574787f1733",
+"assets/assets/images/texture3.jpeg": "72865463a5afc60b7dd9302757a0d4e6",
 "assets/assets/images/crypto.jpeg": "8e3f4ab1e597fbb381e410a16a18ea6b",
 "assets/assets/images/cyp.png": "8d421c71536235cae5696c6583403b01",
 "assets/assets/images/logo.png": "43174456234a34301a6319975001e01f",
