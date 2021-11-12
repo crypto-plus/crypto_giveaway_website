@@ -44097,7 +44097,7 @@ $1(a){return this.a.kL()},
 $S:274}
 V.aep.prototype={
 $2(a,b){var s=null,r=this.a,q=r.gw9().gbM(),p=K.e2(50),o=P.Jz(8,8),n=H.a([P.T(C.d.aD(25.5),255,255,255),P.T(102,255,255,255)],t.d),m=K.e2(50),l=F.x9(P.T(51,255,255,255),2),k=t.p
-return T.NS(C.u,T.o2(p,T.GA(M.b6(s,T.dy(H.a([T.cS(H.a([U.a2Y("assets/images/logo.png",s,s,s,70,70),T.aY(s,s,25),L.bg("A GAGNER CE SOIR",s,s,s,s,s,s,s,A.ba(s,s,C.k,s,s,s,s,s,s,s,s,26,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s)],k),C.x,C.bc,C.C,s),T.aY(s,28,s),new T.hw(1,C.bq,K.ayq(K.a9R(this.b).wL(!1),B.a4h(!0,r.gCc(),new V.aen(r),r.a.c.length,new L.KF(s),C.o,new V.aeo(),!0)),s)],k),C.x,C.E,C.bN),C.l,s,new S.aP(0,1/0,100,450),new S.cb(s,s,l,m,s,new T.jz(C.u,1,C.av,s,0,n,s,s),C.M),s,s,s,C.Da,s,s,450),o)),s,q)},
+return T.NS(C.u,T.o2(p,T.GA(M.b6(s,T.dy(H.a([T.cS(H.a([U.a2Y("assets/images/logo.png",s,s,s,60,60),T.aY(s,s,25),L.bg("A GAGNER PENDANT CE LIVE",s,s,s,s,s,s,s,A.ba(s,s,C.k,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s)],k),C.x,C.bc,C.C,s),T.aY(s,28,s),new T.hw(1,C.bq,K.ayq(K.a9R(this.b).wL(!1),B.a4h(!0,r.gCc(),new V.aen(r),r.a.c.length,new L.KF(s),C.o,new V.aeo(),!0)),s)],k),C.x,C.E,C.bN),C.l,s,new S.aP(0,1/0,100,450),new S.cb(s,s,l,m,s,new T.jz(C.u,1,C.av,s,0,n,s,s),C.M),s,s,s,C.Da,s,s,450),o)),s,q)},
 $S:86}
 V.aen.prototype={
 $2(a,b){var s,r,q=null,p=this.a,o=p.a.c[b].gtr()?C.DS:C.DP
