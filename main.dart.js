@@ -42662,7 +42662,7 @@ if(n==null)n=0
 return new E.hH(n,o.a55(s),s,r,q,p)},
 $S:239}
 E.a78.prototype={
-$2(a,b){return C.b.bs(a.b,b.b)},
+$2(a,b){return C.b.bs(a.b.toLowerCase(),b.b.toLowerCase())},
 $S:240}
 E.a79.prototype={
 $1(a){return a.a===this.a.z},
@@ -42900,9 +42900,9 @@ if(n.f==null)n.f=s
 else H.c(H.bb("_wanderingController"))
 n.gCz().FP(0)
 s=t.i
-r=P.aq3(1.6666666666666667,n.gnm().tF()*3.8333333333333335,s)
+r=P.aq3(1.3333333333333333,n.gnm().tF()*2.6666666666666665,s)
 q=n.gnm().lF(2)===0?1:-1
-s=P.aq3(1.6666666666666667,n.gnm().tF()*3.8333333333333335,s)
+s=P.aq3(1.3333333333333333,n.gnm().tF()*2.6666666666666665,s)
 p=n.gnm().lF(2)===0?1:-1
 o=new E.eB(new Float64Array(2))
 o.lZ(r*q,s*p)
